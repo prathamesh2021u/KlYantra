@@ -1,0 +1,129 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    color:white;
+}
+
+
+
+#navbar {
+    height: 60px;
+    background-color: #0f1111;
+    
+   }
+button{
+    background-color: #f08804;
+}
+
+#logo{
+    color:rgb(76, 76, 165) ;
+    text-align: center;
+}
+a{
+    margin-right: 200px;
+    padding: 5px;
+}
+.fa{
+    width: 300px;
+height: 250px;
+border: 2px solid black;
+display: inline-block;
+border-radius: 5px; 
+color: black;
+    
+}
+
+#f2{
+   height: 640px;
+    position: absolute;
+    left: 15px;
+    top: 70px;
+   
+   
+    background-color: hsl(300, 100%, 25%);
+}
+
+#f3{
+    height: 300px;
+    
+    border: 2px solid black;
+    position: absolute;
+    left: 350px;
+    top :70px;
+    background-color: #f08804;
+
+}
+#f4{ height: 300px;
+    
+    border: 2px solid black;
+    position: absolute;
+    left: 350px;
+    top :400px;
+    background-color: #c34610;
+}
+
+#f5{
+    height: 640px;
+    position: absolute;
+    left: 680px; ;
+    top: 70px;
+    background-color: rgb(18, 117, 18);
+}
+#f6{
+    height: 300px;
+    
+    border: 2px solid black;
+    position: absolute;
+    left: 1005px;
+    top :70px;
+    background-color: #09b320;
+}
+
+#f7{
+    height: 300px;
+    
+    border: 2px solid black;
+    position: absolute;
+    left: 1005px;
+    top :400px;
+    background-color:rgb(18, 151, 147);
+}
+#f8{
+    height: 640px;
+    position: absolute;
+    left: 1320px; ;
+    top: 70px;
+    background-color: rgb(78, 142, 201);
+}
+
+.fb{
+    width: 800px;
+    height: 20px;
+    border: 2px solid black;
+    display: inline-block;
+    border-radius: 5px; 
+    color: black;
+
+}
+
+#f9{
+    height: 100px;
+position:absolute;
+top: 720px;
+left: 10px;
+background-color: rgb(75, 75, 201);
+
+}
+#f10{
+    height: 100px;
+    position:absolute;
+    top: 720px;
+    left: 820px;
+    background-color: rgb(37, 142, 142);
+
+
+}
+
+
+
